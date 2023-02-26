@@ -55,11 +55,15 @@ p {
 
 .sideMenu {
   display: flex;
+  flex-direction: column;
   position: fixed;
-  top: 50%;
+  top: 30%;
   right: 0;
   border-radius: 5px;
   border-style: solid;
+  a{
+    padding: 10px;
+  }
 }
 
 span {

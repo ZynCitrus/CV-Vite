@@ -28,12 +28,8 @@ document.querySelector('.pageTwo').innerHTML = `
 `;
 
 document.querySelector('.sideMenu').innerHTML = `
-<a href="google.com"><span class="material-symbols-outlined">
-dataset
-</span>
-</a>
-<a href="google.com"><span class="material-symbols-outlined">
-arrow_circle_up
-</span>
-</a>
+<a href="https://www.linkedin.com/in/sebastian-p-24381a66/"><img src="./assets/icons/linkedin.png"></a>
+<a href="https://discordapp.com/users/InHoSiVi14#2353/"><img src="./assets/icons/discord.png"></a>
+<a href="mailto:sebastianpost@protonmail.com"><img src="./assets/icons/email.png"></a>
+<a href="https://github.com/ZynCitrus/"><img src="./assets/icons/github.png"></a>
 `;
