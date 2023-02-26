@@ -28,5 +28,12 @@ document.querySelector('.pageTwo').innerHTML = `
 `;
 
 document.querySelector('.sideMenu').innerHTML = `
-TEST
+<a href="google.com"><span class="material-symbols-outlined">
+dataset
+</span>
+</a>
+<a href="google.com"><span class="material-symbols-outlined">
+arrow_circle_up
+</span>
+</a>
 `;
