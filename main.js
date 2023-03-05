@@ -13,7 +13,7 @@ const sebastian = {
 const projectOne ={
   "name": "Weather App",
   "description": "A project I did for the basic course in Javascript where I focused on basic API protocol. I used Open Weather Maps API for weahter and location.",
-  "url": "https://medieinstitutet.github.io/fed22d-js-grundkurs-2-weather-app-ZynCitrus/" 
+  "url": "https://zyncitrus.github.io/Weatherapp/" 
 };
 
 
