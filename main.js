@@ -5,7 +5,7 @@ const age = currentYear - birthYear;
 const sebastian = {
   "name": "sebastianPost",
   "age": age,
-  "city": "Filipstad",
+  "city": "Filipstad / Grängesberg",
   "school": " Medieinstitutet",
   "seeking": "Internship / LIA"
 };
