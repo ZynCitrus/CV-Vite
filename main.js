@@ -19,7 +19,7 @@ const projectOne = {
 const projectTwo = {
   "name": "Nocco landing page",
   "description": "A project I did in the course Graphical Design Tools. The thechnique I used was vanilla Javascript",
-  "url": "https://zyncitrus.github.io/MoccoNocco/" 
+  "url": "https://medieinstitutet.github.io/individuellt-ZynCitrus/" 
 }
 
 document.querySelector('.infoContainerOne').innerHTML = `
