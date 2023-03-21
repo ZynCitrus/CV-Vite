@@ -10,12 +10,17 @@ const sebastian = {
   "seeking": "Internship / LIA"
 };
 
-const projectOne ={
+const projectOne = {
   "name": "Weather App",
   "description": "A project I did for the basic course in Javascript where I focused on basic API protocol. I used Open Weather Maps API for weahter and location.",
   "url": "https://zyncitrus.github.io/Weatherapp/" 
 };
 
+const projectTwo = {
+  "name": "Nocco landing page",
+  "description": "A project I did in the course Graphical Design Tools. The thechnique I used was vanilla Javascript",
+  "url": "ttps://zyncitrus.github.io/MoccoNocco/" 
+}
 
 document.querySelector('.infoContainerOne').innerHTML = `
 <h1>let ${sebastian.name} = {</h1>
