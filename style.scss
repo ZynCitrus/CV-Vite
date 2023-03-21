@@ -23,7 +23,7 @@ p {
   margin: 0;
 }
 
-.pageOne, .pageTwo {
+.pageOne, .pageTwo, .pageThree {
   display: flex;
   padding: 0;
   margin: 0;  
@@ -40,11 +40,11 @@ p {
   background-image: url("./assets/images/heroTwo.jpg");
 }
 
-.pageTwo {
+.pageTwo, .pageThree {
   background-image: url("./assets/images/heroOne.JPG");
 }
 
-.infoContainerTwo {
+.infoContainerTwo, .infoContainerThree {
   max-width: 50%;
   h2 {
     font-size: 38px;
@@ -61,6 +61,11 @@ p {
 }
 
 .infotainerTwo {
+  position: relative;
+  left: 30%;
+}
+
+.infotainerThree {
   position: relative;
   left: 30%;
 }

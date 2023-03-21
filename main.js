@@ -19,7 +19,7 @@ const projectOne = {
 const projectTwo = {
   "name": "Nocco landing page",
   "description": "A project I did in the course Graphical Design Tools. The thechnique I used was vanilla Javascript",
-  "url": "ttps://zyncitrus.github.io/MoccoNocco/" 
+  "url": "https://zyncitrus.github.io/MoccoNocco/" 
 }
 
 document.querySelector('.infoContainerOne').innerHTML = `
@@ -40,6 +40,15 @@ document.querySelector('.infoContainerTwo').innerHTML = `
 <h2>name: ${projectOne.name};</h2>
 <h2>description: ${projectOne.description};</h2>
 <h2>url: <a href="${projectOne.url}">LINK<a/></h2>
+</div>
+`;
+
+document.querySelector('.infoContainerThree').innerHTML = `
+<h1>const projectTwo = {</h1>
+<div class="infotainerTwo">
+<h2>name: ${projectTwo.name};</h2>
+<h2>description: ${projectTwo.description};</h2>
+<h2>url: <a href="${projectTwo.url}">LINK<a/></h2>
 </div>
 `;
 
